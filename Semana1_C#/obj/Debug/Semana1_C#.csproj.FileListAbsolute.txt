@@ -1,0 +1,8 @@
+C:\Users\UPN\Desktop\Proyecto FL\FA_2025-1\FA_2025_ll\Semana1_C#\bin\Debug\Semana1_C#.exe.config
+C:\Users\UPN\Desktop\Proyecto FL\FA_2025-1\FA_2025_ll\Semana1_C#\bin\Debug\Semana1_C#.exe
+C:\Users\UPN\Desktop\Proyecto FL\FA_2025-1\FA_2025_ll\Semana1_C#\bin\Debug\Semana1_C#.pdb
+C:\Users\UPN\Desktop\Proyecto FL\FA_2025-1\FA_2025_ll\Semana1_C#\obj\Debug\Semana1_C#.csproj.AssemblyReference.cache
+C:\Users\UPN\Desktop\Proyecto FL\FA_2025-1\FA_2025_ll\Semana1_C#\obj\Debug\Semana1_C#.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Desktop\Proyecto FL\FA_2025-1\FA_2025_ll\Semana1_C#\obj\Debug\Semana1_C#.exe
+C:\Users\UPN\Desktop\Proyecto FL\FA_2025-1\FA_2025_ll\Semana1_C#\obj\Debug\Semana1_C#.pdb
+C:\Users\UPN\Desktop\Proyecto FL\FA_2025-1\FA_2025_ll\Semana1_C#\obj\Debug\Semana1_C#.exe.config
