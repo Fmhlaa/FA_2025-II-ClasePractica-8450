@@ -25,8 +25,14 @@ def ejer4():
     print("Raiz 3: " , num ** (1/3))
 
 def ejer5():
+    num = input("Ingrese su numero: ")
+
+    entero= int(num)
+    deci= float(num)
+
+    print("Resto: ", (entero%2))
+    print("division: ", (deci/3))
 
 
 
-ejer4()
-
+ejer5()
