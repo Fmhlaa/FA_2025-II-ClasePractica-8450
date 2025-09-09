@@ -25,19 +25,19 @@ namespace Semana1_C_
         }
         static void ejer2()
         {
+            Console.Write("\"Fa\"");
+        }
+        static void ejer3()
+        {
             Console.WriteLine("Ingrese numero x: ");
-            int x = int.Parse( Console.ReadLine());
+            int x = int.Parse(Console.ReadLine());
             Console.WriteLine("Ingrese numero y: ");
-            int y = Convert.ToInt32( Console.ReadLine());
+            int y = Convert.ToInt32(Console.ReadLine());
             double resu = (double)x / (double)y;
             Console.WriteLine("Suma: " + (x + y));
             Console.WriteLine("Resta: " + (x - y));
             Console.WriteLine("Multiplicacion: " + (x * y));
             Console.WriteLine("Division: " + resu);
-        }
-        static void ejer3()
-        {
-
         }
         static void ejer4()
         {

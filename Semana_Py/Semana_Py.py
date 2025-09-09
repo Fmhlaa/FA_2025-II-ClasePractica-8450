@@ -4,8 +4,10 @@ def ejer1():#
 
     print(f"{nombre}, \ndBienvenido a Fa de {carrera}")
 
-    
 def ejer2():
+    print("\"\"Fa\"\"")
+   
+def ejer3():
     x = int(input("Ingrese el valor de x: "))
     y = int(input("Ingrese el valor de y: "))
 
